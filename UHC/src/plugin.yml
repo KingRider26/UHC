@@ -1,0 +1,8 @@
+name: UHC
+version: 1.0.0
+author: Developpeur26
+main: fr.developpeur26.uhc.UHC
+commands:
+  uhc:
+    description: Uhc command
+    permission: op
